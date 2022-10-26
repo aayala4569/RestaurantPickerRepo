@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/Angelica/.nuget/packages/": {}
+    "/Users/val/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/RestaurantPickerRepo.csproj",
+      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/RestaurantPickerRepo.csproj",
       "projectName": "RestaurantPickerRepo",
-      "projectPath": "/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/RestaurantPickerRepo.csproj",
-      "packagesPath": "/Users/Angelica/.nuget/packages/",
-      "outputPath": "/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/",
+      "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/RestaurantPickerRepo.csproj",
+      "packagesPath": "/Users/val/.nuget/packages/",
+      "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Angelica/.nuget/NuGet/NuGet.Config"
+        "/Users/val/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

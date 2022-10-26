@@ -13,3 +13,18 @@
 /Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.pdb
 /Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.genruntimeconfig.cache
 /Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/ref/RestaurantPickerRepo.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/bin/Debug/net6.0/RestaurantPickerRepo
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/bin/Debug/net6.0/RestaurantPickerRepo.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/bin/Debug/net6.0/RestaurantPickerRepo.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/bin/Debug/net6.0/RestaurantPickerRepo.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/bin/Debug/net6.0/RestaurantPickerRepo.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/refint/RestaurantPickerRepo.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/angelicasRestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/ref/RestaurantPickerRepo.dll
