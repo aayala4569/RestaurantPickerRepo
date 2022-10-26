@@ -11,81 +11,82 @@
  //Date:
  //Comment:
 
-using System;
+bool playAgain = true;
+bool isValid = true;
+bool validNumber;
+string response;
+string userSelect;
 
-namespace RestaurantPickerRepo // Note: actual namespace depends on the project name.
+
+
+string[] Restaurants = {"Chapalla", "Rey Azteca", "Nenas", "La Palmas", "Tio Pepes", "El Grullense", "Mayitas", "Senor Frogs", "Susys", "Don Luis", "Burger King", "McDonalds", "Taco Bell", "InNOut", "Red Robbin", "Chick Fil A", "McDonalds", "Subway", "Pollo Loco", "Hamburger stand", "Mikasa", "Shirasoni", "Domo", "Toyo", "Ramen 101", "Benihana", "Shogun", "shoMi", "Cocoro", "Hana"};
+
+Random RanRest = new Random();
+int Option;
+
+while (playAgain == true)
 {
-    internal class Program
+    isValid = true;
+    Console.WriteLine("Please select a restaurnt category");
+    Console.WriteLine("Select 1 for Mexican Food, Select 2 for Fast Food, Select 3 for Japanese, or select 4 for all categories combined.");
+
+    do
     {
-        static void Main(string[] args)
+        userSelect = Console.ReadLine();
+        validNumber = int.TryParse(userSelect, out Option);
+        if (validNumber != true || Option >= 5)
         {
-           System.Random F = new System.Random();
-           int randomFood = 0;
-    
-
-
-     List<string> FoodList = new List<string>();
-     string DiningBtn;
-     string DessertBtn;
-     string RandomFoodBtn;
-
-
-    void Start()
-    {
-        // DiningBtn.text = FoodList[0].Dining;
-        // DessertBtn.text = FoodList[0].Dessert;
-        // FastFoodBtn.text = FoodList[0].FastFood;
-    }
-
-    void DineInFood()
-    {
-        randomFood = F.Next(0,FoodList.Count);
-        DiningBtn.text = FoodList[randomFood].Dining;
-        
-    }
-
-    void DessertFood()
-    {
-        randomFood = F.Next(0,FoodList.Count);
-        DessertBtn.text = FoodList[randomFood].Dessert;
-    }
-    
-    void FastFood()
-    {
-        randomFood = F.Next(0,FoodList.Count);
-        FastFoodBtn.text = FoodList[randomFood].FastFood;
-    }
-
-     void MyRandomOptionsFromList()
-     {
-         //randomFood = F.Next(0,FoodList.Count);
-         System.Random rnd = new System.Random();
-         int num = rnd.Next(1,4);
-
-         if (num == 1)
-         {
-            DineInFood();
-         }
-         else if (num == 2)
-         {
-            DessertFood();
-         }
-         else if (num == 3)
-         {
-            FastFood();
-         }
-         else
-         {
-            Debug.Log($"Error: num variable = {num}");
-         }
-
-        
-         
-       
-     }
-            Console.WriteLine("Hello World!");
+            Console.Write("Please enter a valid whole number.");
         }
     }
+    while (validNumber != true || Option >= 5);
+
+    if (Option == 1)
+    {
+        int ranGen = RanRest.Next(0, 10);
+        Console.WriteLine("Your restaurant is: " + Restaurants[ranGen]);
+    }
+    else if (Option == 2)
+    {
+        int ranGen2 = RanRest.Next(10, 20);
+        Console.WriteLine("Your restaurant is: " + Restaurants[ranGen2]);
+    }
+    else if (Option == 3)
+    {
+        int ranGen3 = RanRest.Next(20, 30);
+        Console.WriteLine("Your restaurant is: " + Restaurants[ranGen3]);
+    }
+    else if (Option == 4)
+    {
+        int ranGen4 = RanRest.Next(0, 30);
+        Console.WriteLine("Your restaurant is: " + Restaurants[ranGen4]);
+    }
+    while(isValid)
+    {
+        Console.Write("Do you want to select again? (Y/N) ");
+        response = Console.ReadLine().ToUpper();
+        if(response == "Y")
+            {
+                playAgain = true;
+                isValid = false;
+            }
+            else if(response == "N")
+            {
+                playAgain = false;
+                isValid = false;
+            }
+            else
+            {
+                playAgain = false;
+                isValid = true;
+                Console.WriteLine(response + " isn't a valid response. Please Enter an actual valid response please.");
+            }
+
+            Console.WriteLine("Thank you for using our services!");
+        
+
+    }
+
+
+
 }
-
-
