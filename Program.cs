@@ -7,9 +7,9 @@
 
  // Created a restaurant picker where there are 3 food categories that are buttons (Dine In, FastFood and Dessert) and 1 button that will randomly select an option from either category. 
 
- //Peer reviewed by:
- //Date:
- //Comment:
+ //Peer reviewed by: Valerie Aguilar
+ //Date: 10/25/22
+ //Comment: Runs smooth! :)
 
 bool playAgain = true;
 bool isValid = true;
