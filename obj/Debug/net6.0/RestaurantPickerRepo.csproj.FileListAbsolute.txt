@@ -1,0 +1,5 @@
+/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/Assignments/RestaurantPicker/RestaurantPickerRepo/obj/Debug/net6.0/RestaurantPickerRepo.csproj.CoreCompileInputs.cache
